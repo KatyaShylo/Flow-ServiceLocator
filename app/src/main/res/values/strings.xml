@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">R&amp;MServiceLocator</string>
+    <string name="app_name_abbreviations">R&amp;M</string>
+    <string name="name_item_toolbar_search">Search</string>
+    <string name="name_item_toolbar_detail">R&amp;M - Description</string>
 </resources>
